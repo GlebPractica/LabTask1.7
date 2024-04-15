@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|d:\\pairs\\kpjp_practica\\work_1.7\\task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|d:\\pairs\\kpjp_practica\\work_1.7\\task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|d:\\pairs\\kpjp_practica\\work_1.7\\task\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|solutionrelative:clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|d:\\pairs\\kpjp_practica\\work_1.7\\task\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0159EC-CB5B-4E50-87BD-4A29145A363E}|Task.csproj|solutionrelative:clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Clients.cs",
+              "RelativeDocumentMoniker": "Clients.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Clients.cs",
+              "RelativeToolTip": "Clients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:23:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\ClientManager.cs",
+              "RelativeDocumentMoniker": "ClientManager.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\ClientManager.cs",
+              "RelativeToolTip": "ClientManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:04:32.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAA0wJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:39:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_1.7\\Task\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:38:20.069Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
